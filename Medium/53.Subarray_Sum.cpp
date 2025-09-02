@@ -1,4 +1,4 @@
-//Leetcode Proble 53 : Subarray Sum
+//Leetcode Problem 53 : Subarray Sum
 //Difficulty: Medium
 //Approach : Used Kadane's Algorithm to optimize the solution.
 
